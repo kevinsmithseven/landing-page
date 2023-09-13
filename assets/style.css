@@ -1,0 +1,33 @@
+/* Global styles
+________________*/
+* {
+background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* Header styles
+________________*/
+
+nav {
+    background-color: rgb(36, 73, 49);
+    height: 100px;
+    text-align: right;
+}
+
+ul {
+    background-color: rgb(36,73,49);
+}
+
+li {
+    background-color: rgb(36,73,49);
+    color: white;
+    text-align: right;
+    display: inline;
+    font-size: 20px;
+     
+}
+
+h1 {
+    text-align: center;
+}
