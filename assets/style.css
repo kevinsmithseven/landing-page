@@ -1,37 +1,71 @@
 /* Global styles
 ________________*/
 * {
-    background-color: antiquewhite;
-    font-family: Arial, Helvetica, sans-serif;
-
+    margin:0;
+    padding: 0;
 }
 
-/* Header styles
-________________*/
-header {
-    background-color: rgb(36, 73, 49) ;
+/* Element Selector */
+body {
+    position: relative;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 20px;
+    background-color: #fdf8f5;
+    color: #4f4846;
 }
 
-nav {
-        height: 100px;
-    text-align: right;
+h1,h2 {
+    margin: 20px;
 }
 
-ul {
-    background-color: rgb(36, 73, 49);
+main {
+    padding: 60px 0;
 }
 
 li {
-    background-color: rgb(36, 73, 49);
-    color: white;
-    text-align: right;
     display: inline;
-    font-size: 20px;
-
+    padding: 0px 20px;
+    text-decoration: none;
 }
 
+a {
+    text-decoration: none;
+    color: #fdf8f5;
+}
 
-    
+header, 
+footer {
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+    background-color: #266150;
+}
+
+header {
+    position: fixed;
+    border-bottom: 10px solid #ddaf94;
+}
+
+footer {
+    position: absolute;
+    margin-top: 0;
+    bottom: 0;
+    border-bottom: 10px solid #4f4846;
+    color: #fdf8f5;
+}
+
+figure {
+    margin-bottom: 40px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+section {
+    margin-bottom: 0;
+}
 
 
 /* Class Selectors */
