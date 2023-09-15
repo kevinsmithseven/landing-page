@@ -8,7 +8,7 @@ In completing this project, I became more familiar with HTML structures and CSS 
 
 ## Usage
 
-Below is an image of the refactored website. Users will be able to click on each of the three links in the navigation area at the top and right of the page to be able to navigate to the details for each section below.
+Below is an image of the website landing page. Users will be able to click on each of the three links in the navigation area at the top and right of the page. Currently, only the Github link is active. 
     
 ![Screenshot of My New Website Landing Page](/assets/My%20New%20Website%20Landing%20Page%20Fullscreen%20Capture.png)
 
