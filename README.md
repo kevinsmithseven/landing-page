@@ -17,7 +17,7 @@ Below is an image of the website landing page. Users will be able to click on ea
 In completing this project, I utilized the below resources to assist:
 
 https://www.w3schools.com/tags/  
-https://www.w3schools.com/css/default.asp
+https://www.w3schools.com/css/default.asp  
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide  
 https://www.markdownguide.org/basic-syntax/
 
